@@ -1,0 +1,124 @@
+{"time":"2026-06-27T05:33:41.103Z","action":"create-service-start","category":"BODY WORK","title":"60 Mins Deep Tissue","duration":"60","cost":"65"}
+{"time":"2026-06-27T05:34:13.976Z","action":"create-service-done","category":"BODY WORK","title":"60 Mins Deep Tissue"}
+{"time":"2026-06-27T05:34:13.982Z","action":"create-service-start","category":"BODY WORK","title":"90 Mins Deep Tissue (with Free Hot Stone)","duration":"90","cost":"95"}
+{"time":"2026-06-27T05:34:37.856Z","action":"create-service-done","category":"BODY WORK","title":"90 Mins Deep Tissue (with Free Hot Stone)"}
+{"time":"2026-06-27T05:34:37.860Z","action":"create-service-start","category":"BODY WORK","title":"120 Mins Body Work","duration":"120","cost":"110"}
+{"time":"2026-06-27T05:35:01.710Z","action":"create-service-done","category":"BODY WORK","title":"120 Mins Body Work"}
+{"time":"2026-06-27T05:35:02.523Z","action":"create-category-start","category":"FOOT REFLEXOLOGY"}
+{"time":"2026-06-27T05:35:05.873Z","action":"create-category-done","category":"FOOT REFLEXOLOGY"}
+{"time":"2026-06-27T05:35:05.876Z","action":"create-service-start","category":"FOOT REFLEXOLOGY","title":"30 Mins Sea Salt","duration":"30","cost":"35"}
+{"time":"2026-06-27T05:35:29.700Z","action":"create-service-done","category":"FOOT REFLEXOLOGY","title":"30 Mins Sea Salt"}
+{"time":"2026-06-27T05:35:29.705Z","action":"create-service-start","category":"FOOT REFLEXOLOGY","title":"60 Mins Sea Salt","duration":"60","cost":"48"}
+{"time":"2026-06-27T05:35:53.540Z","action":"create-service-done","category":"FOOT REFLEXOLOGY","title":"60 Mins Sea Salt"}
+{"time":"2026-06-27T05:35:53.545Z","action":"create-service-start","category":"FOOT REFLEXOLOGY","title":"30 Mins Ginger Powder","duration":"30","cost":"36"}
+{"time":"2026-06-27T05:36:17.364Z","action":"create-service-done","category":"FOOT REFLEXOLOGY","title":"30 Mins Ginger Powder"}
+{"time":"2026-06-27T05:36:17.368Z","action":"create-service-start","category":"FOOT REFLEXOLOGY","title":"60 Mins Ginger Powder","duration":"60","cost":"50"}
+{"time":"2026-06-27T05:36:41.214Z","action":"create-service-done","category":"FOOT REFLEXOLOGY","title":"60 Mins Ginger Powder"}
+{"time":"2026-06-27T05:36:41.218Z","action":"create-service-start","category":"FOOT REFLEXOLOGY","title":"30 Mins Traditional Chinese Medicine","duration":"30","cost":"36"}
+{"time":"2026-06-27T05:37:05.060Z","action":"create-service-done","category":"FOOT REFLEXOLOGY","title":"30 Mins Traditional Chinese Medicine"}
+{"time":"2026-06-27T05:37:05.065Z","action":"create-service-start","category":"FOOT REFLEXOLOGY","title":"60 Mins Traditional Chinese Medicine","duration":"60","cost":"50"}
+{"time":"2026-06-27T05:37:28.863Z","action":"create-service-done","category":"FOOT REFLEXOLOGY","title":"60 Mins Traditional Chinese Medicine"}
+{"time":"2026-06-27T05:37:29.684Z","action":"create-category-start","category":"CHAIR RELAXING"}
+{"time":"2026-06-27T05:37:32.542Z","action":"create-category-done","category":"CHAIR RELAXING"}
+{"time":"2026-06-27T05:37:32.546Z","action":"create-service-start","category":"CHAIR RELAXING","title":"10 Mins Chair Massage","duration":"10","cost":"15"}
+{"time":"2026-06-27T05:37:56.361Z","action":"create-service-done","category":"CHAIR RELAXING","title":"10 Mins Chair Massage"}
+{"time":"2026-06-27T05:37:56.365Z","action":"create-service-start","category":"CHAIR RELAXING","title":"15 Mins Chair Massage","duration":"15","cost":"20"}
+{"time":"2026-06-27T05:38:20.204Z","action":"create-service-done","category":"CHAIR RELAXING","title":"15 Mins Chair Massage"}
+{"time":"2026-06-27T05:38:20.208Z","action":"create-service-start","category":"CHAIR RELAXING","title":"20 Mins Chair Massage","duration":"20","cost":"25"}
+{"time":"2026-06-27T05:38:43.984Z","action":"create-service-done","category":"CHAIR RELAXING","title":"20 Mins Chair Massage"}
+{"time":"2026-06-27T05:38:43.988Z","action":"create-service-start","category":"CHAIR RELAXING","title":"30 Mins Chair Massage","duration":"30","cost":"35"}
+{"time":"2026-06-27T05:39:07.858Z","action":"create-service-done","category":"CHAIR RELAXING","title":"30 Mins Chair Massage"}
+{"time":"2026-06-27T05:39:08.668Z","action":"create-category-start","category":"SKIN CARE"}
+{"time":"2026-06-27T05:39:11.557Z","action":"create-category-done","category":"SKIN CARE"}
+{"time":"2026-06-27T05:39:11.562Z","action":"create-service-start","category":"SKIN CARE","title":"30 Mins Wash Face","duration":"30","cost":"45"}
+{"time":"2026-06-27T05:39:35.366Z","action":"create-service-done","category":"SKIN CARE","title":"30 Mins Wash Face"}
+{"time":"2026-06-27T05:39:35.370Z","action":"create-service-start","category":"SKIN CARE","title":"30 Mins Mini Facial","duration":"30","cost":"55"}
+{"time":"2026-06-27T05:39:59.203Z","action":"create-service-done","category":"SKIN CARE","title":"30 Mins Mini Facial"}
+{"time":"2026-06-27T05:39:59.207Z","action":"create-service-start","category":"SKIN CARE","title":"45 Mins H2 Facial","duration":"45","cost":"65"}
+{"time":"2026-06-27T05:40:23.035Z","action":"create-service-done","category":"SKIN CARE","title":"45 Mins H2 Facial"}
+{"time":"2026-06-27T05:40:23.039Z","action":"create-service-start","category":"SKIN CARE","title":"30 Mins Ear Candle","duration":"30","cost":"35"}
+{"time":"2026-06-27T05:40:46.816Z","action":"create-service-done","category":"SKIN CARE","title":"30 Mins Ear Candle"}
+{"time":"2026-06-27T05:40:46.820Z","action":"create-service-start","category":"SKIN CARE","title":"60 Mins Deep Cleaning Facial","duration":"60","cost":"70"}
+{"time":"2026-06-27T05:41:10.674Z","action":"create-service-done","category":"SKIN CARE","title":"60 Mins Deep Cleaning Facial"}
+{"time":"2026-06-27T05:41:10.677Z","action":"create-service-start","category":"SKIN CARE","title":"60 Mins Hydro & Soothing Treatment","duration":"60","cost":"85"}
+{"time":"2026-06-27T05:41:34.510Z","action":"create-service-done","category":"SKIN CARE","title":"60 Mins Hydro & Soothing Treatment"}
+{"time":"2026-06-27T05:41:35.328Z","action":"create-category-start","category":"HEAD TREATMENT"}
+{"time":"2026-06-27T05:41:38.271Z","action":"create-category-done","category":"HEAD TREATMENT"}
+{"time":"2026-06-27T05:41:38.276Z","action":"create-service-start","category":"HEAD TREATMENT","title":"60 Mins Head Treatment","duration":"60","cost":"98"}
+{"time":"2026-06-27T05:42:02.116Z","action":"create-service-done","category":"HEAD TREATMENT","title":"60 Mins Head Treatment"}
+{"time":"2026-06-27T05:42:02.120Z","action":"create-service-start","category":"HEAD TREATMENT","title":"80 Mins Head Treatment","duration":"80","cost":"120"}
+{"time":"2026-06-27T05:42:25.912Z","action":"create-service-done","category":"HEAD TREATMENT","title":"80 Mins Head Treatment"}
+{"time":"2026-06-27T05:42:26.733Z","action":"create-category-start","category":"BODY PACKAGE"}
+{"time":"2026-06-27T05:42:29.614Z","action":"create-category-done","category":"BODY PACKAGE"}
+{"time":"2026-06-27T05:42:29.617Z","action":"create-service-start","category":"BODY PACKAGE","title":"60 Mins Body Package - Buy 5 Times (Free 1 Time)","duration":"60","cost":"300"}
+{"time":"2026-06-27T05:42:53.485Z","action":"create-service-done","category":"BODY PACKAGE","title":"60 Mins Body Package - Buy 5 Times (Free 1 Time)"}
+{"time":"2026-06-27T05:42:53.488Z","action":"create-service-start","category":"BODY PACKAGE","title":"60 Mins Body Package - Buy 10 Times (Free 3 Times)","duration":"60","cost":"600"}
+{"time":"2026-06-27T05:43:17.265Z","action":"create-service-done","category":"BODY PACKAGE","title":"60 Mins Body Package - Buy 10 Times (Free 3 Times)"}
+{"time":"2026-06-27T05:43:18.082Z","action":"create-category-start","category":"FOOT PACKAGE"}
+{"time":"2026-06-27T05:43:21.014Z","action":"create-category-done","category":"FOOT PACKAGE"}
+{"time":"2026-06-27T05:43:21.017Z","action":"create-service-start","category":"FOOT PACKAGE","title":"60 Mins Foot Package - Buy 5 Times (Free 1 Time)","duration":"60","cost":"240"}
+{"time":"2026-06-27T05:43:44.883Z","action":"create-service-done","category":"FOOT PACKAGE","title":"60 Mins Foot Package - Buy 5 Times (Free 1 Time)"}
+{"time":"2026-06-27T05:43:44.887Z","action":"create-service-start","category":"FOOT PACKAGE","title":"60 Mins Foot Package - Buy 10 Times (Free 3 Times)","duration":"60","cost":"480"}
+{"time":"2026-06-27T05:44:08.668Z","action":"create-service-done","category":"FOOT PACKAGE","title":"60 Mins Foot Package - Buy 10 Times (Free 3 Times)"}
+{"time":"2026-06-27T05:44:09.476Z","action":"create-category-start","category":"BODY COMBO"}
+{"time":"2026-06-27T05:44:12.354Z","action":"create-category-done","category":"BODY COMBO"}
+{"time":"2026-06-27T05:44:12.357Z","action":"create-service-start","category":"BODY COMBO","title":"30 Mins Body + 30 Mins Feet (Swedish)","duration":"60","cost":"65"}
+{"time":"2026-06-27T05:44:36.210Z","action":"create-service-done","category":"BODY COMBO","title":"30 Mins Body + 30 Mins Feet (Swedish)"}
+{"time":"2026-06-27T05:44:36.214Z","action":"create-service-start","category":"BODY COMBO","title":"30 Mins Body + 30 Mins Feet (Deep Tissue)","duration":"60","cost":"70"}
+{"time":"2026-06-27T05:45:00.034Z","action":"create-service-done","category":"BODY COMBO","title":"30 Mins Body + 30 Mins Feet (Deep Tissue)"}
+{"time":"2026-06-27T05:45:00.037Z","action":"create-service-start","category":"BODY COMBO","title":"60 Mins Body + 30 Mins Feet (Swedish)","duration":"90","cost":"85"}
+{"time":"2026-06-27T05:45:23.830Z","action":"create-service-done","category":"BODY COMBO","title":"60 Mins Body + 30 Mins Feet (Swedish)"}
+{"time":"2026-06-27T05:45:23.833Z","action":"create-service-start","category":"BODY COMBO","title":"60 Mins Body + 30 Mins Feet (Deep Tissue)","duration":"90","cost":"90"}
+{"time":"2026-06-27T05:45:47.625Z","action":"create-service-done","category":"BODY COMBO","title":"60 Mins Body + 30 Mins Feet (Deep Tissue)"}
+{"time":"2026-06-27T05:45:47.629Z","action":"create-service-start","category":"BODY COMBO","title":"60 Mins Body + 60 Mins Feet (Swedish)","duration":"120","cost":"95"}
+{"time":"2026-06-27T05:46:11.424Z","action":"create-service-done","category":"BODY COMBO","title":"60 Mins Body + 60 Mins Feet (Swedish)"}
+{"time":"2026-06-27T05:46:11.427Z","action":"create-service-start","category":"BODY COMBO","title":"60 Mins Body + 60 Mins Feet (Deep Tissue)","duration":"120","cost":"100"}
+{"time":"2026-06-27T05:46:35.221Z","action":"create-service-done","category":"BODY COMBO","title":"60 Mins Body + 60 Mins Feet (Deep Tissue)"}
+{"time":"2026-06-27T05:46:36.032Z","action":"create-category-start","category":"FOOT CHAIR COMBO"}
+{"time":"2026-06-27T05:46:38.932Z","action":"create-category-done","category":"FOOT CHAIR COMBO"}
+{"time":"2026-06-27T05:46:38.936Z","action":"create-service-start","category":"FOOT CHAIR COMBO","title":"15 Mins Feet + 15 Mins Chair","duration":"30","cost":"40"}
+{"time":"2026-06-27T05:47:02.768Z","action":"create-service-done","category":"FOOT CHAIR COMBO","title":"15 Mins Feet + 15 Mins Chair"}
+{"time":"2026-06-27T05:47:02.771Z","action":"create-service-start","category":"FOOT CHAIR COMBO","title":"30 Mins Feet + 10 Mins Chair","duration":"40","cost":"45"}
+{"time":"2026-06-27T05:47:26.532Z","action":"create-service-done","category":"FOOT CHAIR COMBO","title":"30 Mins Feet + 10 Mins Chair"}
+{"time":"2026-06-27T05:47:26.535Z","action":"create-service-start","category":"FOOT CHAIR COMBO","title":"30 Mins Feet + 20 Mins Chair","duration":"50","cost":"55"}
+{"time":"2026-06-27T05:47:50.347Z","action":"create-service-done","category":"FOOT CHAIR COMBO","title":"30 Mins Feet + 20 Mins Chair"}
+{"time":"2026-06-27T05:47:50.350Z","action":"create-service-start","category":"FOOT CHAIR COMBO","title":"30 Mins Feet + 30 Mins Chair","duration":"60","cost":"65"}
+{"time":"2026-06-27T05:48:14.160Z","action":"create-service-done","category":"FOOT CHAIR COMBO","title":"30 Mins Feet + 30 Mins Chair"}
+{"time":"2026-06-27T05:48:14.163Z","action":"create-service-start","category":"FOOT CHAIR COMBO","title":"60 Mins Feet + 10 Mins Chair","duration":"70","cost":"58"}
+{"time":"2026-06-27T05:48:37.965Z","action":"create-service-done","category":"FOOT CHAIR COMBO","title":"60 Mins Feet + 10 Mins Chair"}
+{"time":"2026-06-27T05:48:37.968Z","action":"create-service-start","category":"FOOT CHAIR COMBO","title":"60 Mins Feet + 20 Mins Chair","duration":"80","cost":"68"}
+{"time":"2026-06-27T05:49:01.790Z","action":"create-service-done","category":"FOOT CHAIR COMBO","title":"60 Mins Feet + 20 Mins Chair"}
+{"time":"2026-06-27T05:49:01.793Z","action":"create-service-start","category":"FOOT CHAIR COMBO","title":"60 Mins Feet + 30 Mins Chair","duration":"90","cost":"80"}
+{"time":"2026-06-27T05:49:25.588Z","action":"create-service-done","category":"FOOT CHAIR COMBO","title":"60 Mins Feet + 30 Mins Chair"}
+{"time":"2026-06-27T05:49:26.398Z","action":"create-category-start","category":"HAND CARE"}
+{"time":"2026-06-27T05:49:29.312Z","action":"create-category-done","category":"HAND CARE"}
+{"time":"2026-06-27T05:49:29.316Z","action":"create-service-start","category":"HAND CARE","title":"10 Mins Hand Care","duration":"10","cost":"15"}
+{"time":"2026-06-27T05:49:53.142Z","action":"create-service-done","category":"HAND CARE","title":"10 Mins Hand Care"}
+{"time":"2026-06-27T05:49:53.145Z","action":"create-service-start","category":"HAND CARE","title":"15 Mins Hand Care","duration":"15","cost":"20"}
+{"time":"2026-06-27T05:50:16.913Z","action":"create-service-done","category":"HAND CARE","title":"15 Mins Hand Care"}
+{"time":"2026-06-27T05:50:16.917Z","action":"create-service-start","category":"HAND CARE","title":"20 Mins Hand Care","duration":"20","cost":"25"}
+{"time":"2026-06-27T05:50:40.711Z","action":"create-service-done","category":"HAND CARE","title":"20 Mins Hand Care"}
+{"time":"2026-06-27T05:50:40.715Z","action":"create-service-start","category":"HAND CARE","title":"30 Mins Hand Care","duration":"30","cost":"40"}
+{"time":"2026-06-27T05:51:04.522Z","action":"create-service-done","category":"HAND CARE","title":"30 Mins Hand Care"}
+{"time":"2026-06-27T05:51:05.331Z","action":"create-category-start","category":"WAXING"}
+{"time":"2026-06-27T05:51:08.276Z","action":"create-category-done","category":"WAXING"}
+{"time":"2026-06-27T05:51:08.279Z","action":"create-service-start","category":"WAXING","title":"15 Mins Eyebrow Waxing","duration":"15","cost":"10"}
+{"time":"2026-06-27T05:51:32.105Z","action":"create-service-done","category":"WAXING","title":"15 Mins Eyebrow Waxing"}
+{"time":"2026-06-27T05:51:32.108Z","action":"create-service-start","category":"WAXING","title":"10 Mins Lip Waxing","duration":"10","cost":"8"}
+{"time":"2026-06-27T05:51:55.901Z","action":"create-service-done","category":"WAXING","title":"10 Mins Lip Waxing"}
+{"time":"2026-06-27T05:51:55.905Z","action":"create-service-start","category":"WAXING","title":"10 Mins Chin Waxing","duration":"10","cost":"16"}
+{"time":"2026-06-27T05:52:19.709Z","action":"create-service-done","category":"WAXING","title":"10 Mins Chin Waxing"}
+{"time":"2026-06-27T05:52:19.712Z","action":"create-service-start","category":"WAXING","title":"30 Mins Face Waxing","duration":"30","cost":"40"}
+{"time":"2026-06-27T05:52:43.534Z","action":"create-service-done","category":"WAXING","title":"30 Mins Face Waxing"}
+{"time":"2026-06-27T05:52:43.538Z","action":"create-service-start","category":"WAXING","title":"30 Mins Half Arm Waxing","duration":"30","cost":"30"}
+{"time":"2026-06-27T05:53:07.346Z","action":"create-service-done","category":"WAXING","title":"30 Mins Half Arm Waxing"}
+{"time":"2026-06-27T05:53:07.350Z","action":"create-service-start","category":"WAXING","title":"45 Mins Full Arm Waxing","duration":"45","cost":"45"}
+{"time":"2026-06-27T05:53:31.164Z","action":"create-service-done","category":"WAXING","title":"45 Mins Full Arm Waxing"}
+{"time":"2026-06-27T05:53:31.167Z","action":"create-service-start","category":"WAXING","title":"30 Mins Half Leg Waxing","duration":"30","cost":"45"}
+{"time":"2026-06-27T05:53:55.000Z","action":"create-service-done","category":"WAXING","title":"30 Mins Half Leg Waxing"}
+{"time":"2026-06-27T05:53:55.005Z","action":"create-service-start","category":"WAXING","title":"60 Mins Full Leg Waxing","duration":"60","cost":"65"}
+{"time":"2026-06-27T05:54:18.905Z","action":"create-service-done","category":"WAXING","title":"60 Mins Full Leg Waxing"}
+{"time":"2026-06-27T05:54:18.909Z","action":"create-service-start","category":"WAXING","title":"30 Mins Bikini Waxing","duration":"30","cost":"45"}
+{"time":"2026-06-27T05:54:42.804Z","action":"create-service-done","category":"WAXING","title":"30 Mins Bikini Waxing"}
+{"time":"2026-06-27T05:54:42.808Z","action":"create-service-start","category":"WAXING","title":"45 Mins Brazilian Waxing","duration":"45","cost":"65"}
+{"time":"2026-06-27T05:55:06.746Z","action":"create-service-done","category":"WAXING","title":"45 Mins Brazilian Waxing"}

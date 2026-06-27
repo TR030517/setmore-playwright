@@ -1,0 +1,7 @@
+{
+  "chromePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "userDataDir": "C:\\Users\\Administrator\\AppData\\Local\\SetmorePlaywrightProfile",
+  "debugUrl": "http://127.0.0.1:9222",
+  "targetUrl": "https://auth.setmore.com/o/login/",
+  "launchedAt": "2026-06-27T04:48:02.777Z"
+}

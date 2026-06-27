@@ -1,0 +1,706 @@
+{
+  "url": "https://go.setmore.com/settings/services",
+  "title": "team's Calendar",
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bodyText": "​\nGrow with Pro – free for 14 days. Start free trial\nI Foot Spa\nGrow your brand\n27\nCalendar\nReceptionist\nServices\nConnect\nCustomers\nPayments\nIntegrations\nSettings\nShare your Booking Page link\nUnlock next-level booking\nStart free trial\nLearn more\nGetting started\nHelp & Support\nT\nteam\nGet Pro\nSettings\nYour brand\nYour profile\nYour team\nServices\nGeneral\nMANAGE\nBooking preferences\nYour branded app\nPayments\nReports\nBilling\nNotifications\nReviews\nSecurity\nMORE\nDownload apps\nActivity\nRefer a friend\nLog out\nServices & classes\nServices\nBODY WORK\nNew service category\nClasses\nServices\nTeam\n,\nT\nteam\nT\nteam\nSearch\n​\nYou are not assigned to any services.",
+  "htmlLength": 2989572,
+  "inputs": [
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "placeholder": "Services",
+      "aria": null,
+      "value": "",
+      "visible": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "number",
+      "placeholder": null,
+      "aria": "Year",
+      "value": "2026",
+      "visible": false
+    }
+  ],
+  "buttons": [
+    {
+      "tag": "DIV",
+      "role": "button",
+      "aria": null,
+      "text": "​\nGrow with Pro – free for 14 days. Start free trial",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Start free trial",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": "close banner",
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": "Minimize main nav",
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "Grow your brand",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "27\nCalendar",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Receptionist",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Services",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Connect",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Customers",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Payments",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Integrations",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Settings",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "Start free trial",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "Learn more",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "T\nteam",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "Get Pro",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "Your brand",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Brand details",
+      "visible": false
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Appearance",
+      "visible": false
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Contact details",
+      "visible": false
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Location",
+      "visible": false
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Business hours",
+      "visible": false
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Your links",
+      "visible": false
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Your profile",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Your team",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Services",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "General",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "Booking preferences",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Overview",
+      "visible": false
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Booking policies",
+      "visible": false
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Booking setup",
+      "visible": false
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Customization",
+      "visible": false
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Booking Page visibility",
+      "visible": false
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Your branded app",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "Payments",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Payment integrations",
+      "visible": false
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Payment preferences",
+      "visible": false
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Payments history",
+      "visible": false
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Reports",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Billing",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "Notifications",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Your notifications",
+      "visible": false
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Team notifications",
+      "visible": false
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Customer notifications",
+      "visible": false
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Customization",
+      "visible": false
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Reviews",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Security",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Download apps",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Activity",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "Refer a friend",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "Log out",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": "Click me!",
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "DIV",
+      "role": "button",
+      "aria": null,
+      "text": "BODY WORK",
+      "visible": true
+    },
+    {
+      "tag": "LI",
+      "role": "button",
+      "aria": "Click to select category",
+      "text": "BODY WORK",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": "More-option-button",
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "New service category",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": "Click me!",
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "New class category",
+      "visible": false
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": "Share button",
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": "Toggle dropdown menu",
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "T\nteam",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": "Previous week",
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": "Next week",
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "BUTTON",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "tag": "A",
+      "role": null,
+      "aria": null,
+      "text": "",
+      "visible": true
+    }
+  ],
+  "frames": [
+    {
+      "src": "",
+      "title": "Intercom"
+    },
+    {
+      "src": "https://connect-js.stripe.com/data_layer_490efc05fb00e88cb4cd.html#pageViewId=e678d5a3-64f2-422b-b8e0-d7ea511ae5a3&platformUrl=https%3A%2F%2Fgo.setmore.com%2Fsettings%2Fservices&stripe_internal_running_in_iframe=true",
+      "title": ""
+    },
+    {
+      "src": "https://pay.google.com/gp/p/ui/payframe?origin=https%3A%2F%2Fgo.setmore.com&mid=",
+      "title": ""
+    }
+  ],
+  "playwrightFrames": [
+    {
+      "name": "",
+      "url": "https://go.setmore.com/settings/services"
+    },
+    {
+      "name": "intercom-frame",
+      "url": "about:blank"
+    },
+    {
+      "name": "connectjs_controller_connect-instance0550",
+      "url": "https://connect-js.stripe.com/data_layer_490efc05fb00e88cb4cd.html#pageViewId=e678d5a3-64f2-422b-b8e0-d7ea511ae5a3&platformUrl=https%3A%2F%2Fgo.setmore.com%2Fsettings%2Fservices&stripe_internal_running_in_iframe=true"
+    },
+    {
+      "name": "",
+      "url": "https://pay.google.com/gp/p/ui/payframe?origin=https%3A%2F%2Fgo.setmore.com&mid="
+    }
+  ]
+}

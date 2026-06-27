@@ -1,0 +1,15 @@
+{
+  "name": "setmore-playwright-automation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Safe Setmore automation using a clean independent Chrome profile.",
+  "scripts": {
+    "launch": "node launch-setmore.js",
+    "connect": "node connect-after-login.js",
+    "attach": "node connect_and_upload.js",
+    "run:persistent": "set USE_PERSISTENT_CONTEXT=1&& node connect_and_upload.js"
+  },
+  "dependencies": {
+    "playwright": "^1.54.2"
+  }
+}

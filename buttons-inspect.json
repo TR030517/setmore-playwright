@@ -1,0 +1,1056 @@
+[
+  {
+    "tag": "DIV",
+    "type": null,
+    "role": "button",
+    "aria": null,
+    "text": "Grow with Pro – free for 14 days. Start free trial",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1920,
+      "height": 40
+    },
+    "className": "app-banner pointer bg-neutral css-141k20z"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Start free trial",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 1012,
+      "y": 10,
+      "width": 78,
+      "height": 20
+    },
+    "className": "active:text-accent-pressed hover:text-accent-hover text-accent underline focus-visible:focus-ring rounded-4px underline-offset-4"
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "role": null,
+    "aria": "close banner",
+    "text": "",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 1884,
+      "y": 8,
+      "width": 24,
+      "height": 24
+    },
+    "className": "[transition-timing-function:ease] border #1 border-transparent cursor-pointer duration-300 focus-visible:focus-ring inline-flex items-center justify-center transition-colors aria-disabled:text-disabled rounded-full text-secondary h-6 w-6 hover:bg-neutral-hover active:bg-neutral-pressed aria-pressed:bg-neutral-pressed aria-disabled:cursor-default relative shrink-0"
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "role": null,
+    "aria": "Minimize main nav",
+    "text": "",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 171,
+      "y": 56,
+      "width": 32,
+      "height": 32
+    },
+    "className": "[transition-timing-function:ease] border #1 border-transparent cursor-pointer duration-300 focus-visible:focus-ring inline-flex items-center justify-center transition-colors aria-disabled:text-disabled rounded-full text-secondary h-8 w-8 hover:bg-neutral-hover active:bg-neutral-pressed aria-pressed:bg-neutral-pressed aria-disabled:cursor-default relative shrink-0"
+  },
+  {
+    "tag": "BUTTON",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Grow your brand",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 12,
+      "y": 112,
+      "width": 191,
+      "height": 32
+    },
+    "className": "gap-2 rounded-8px focus-visible:focus-ring hover:bg-neutral-hover active:bg-neutral-pressed relative mb-6 flex w-full items-center"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "27 Calendar",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 12,
+      "y": 168,
+      "width": 191,
+      "height": 32
+    },
+    "className": "rounded-8px focus-visible:focus-ring hover:bg-neutral-hover active:bg-neutral-pressed w-full"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Services",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 12,
+      "y": 204,
+      "width": 191,
+      "height": 32
+    },
+    "className": "rounded-8px focus-visible:focus-ring hover:bg-neutral-hover active:bg-neutral-pressed w-full"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Connect",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 12,
+      "y": 240,
+      "width": 191,
+      "height": 32
+    },
+    "className": "rounded-8px focus-visible:focus-ring hover:bg-neutral-hover active:bg-neutral-pressed w-full"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Payments",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 12,
+      "y": 276,
+      "width": 191,
+      "height": 32
+    },
+    "className": "rounded-8px focus-visible:focus-ring hover:bg-neutral-hover active:bg-neutral-pressed w-full"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Integrations",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 12,
+      "y": 312,
+      "width": 191,
+      "height": 32
+    },
+    "className": "rounded-8px focus-visible:focus-ring hover:bg-neutral-hover active:bg-neutral-pressed w-full"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Settings",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 12,
+      "y": 348,
+      "width": 191,
+      "height": 32
+    },
+    "className": "rounded-8px focus-visible:focus-ring hover:bg-neutral-hover active:bg-neutral-pressed w-full bg-neutral-active cn-current-active-app"
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "role": null,
+    "aria": null,
+    "text": "Start free trial",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 24,
+      "y": 864,
+      "width": 167,
+      "height": 32
+    },
+    "className": "[transition-timing-function:ease] border #1 cursor-pointer duration-300 focus-visible:focus-ring inline-flex items-center justify-center transition-colors aria-disabled:text-disabled aria-disabled:border-secondary rounded-full h-8 px-4 text-body-12 border-accent text-accent hover:bg-accent-hover hover:border-transparent hover:text-onPrimary active:bg-accent-pressed active:border-transparent active:text-onPrimary aria-pressed:bg-accent-pressed aria-pressed:border-transparent aria-pressed:text-onPrimary aria-disabled:cursor-default relative whitespace-nowrap bg-neutral mt-2 w-full"
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "role": null,
+    "aria": null,
+    "text": "Learn more",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 24,
+      "y": 900,
+      "width": 167,
+      "height": 32
+    },
+    "className": "[transition-timing-function:ease] border #1 border-transparent cursor-pointer duration-300 focus-visible:focus-ring inline-flex items-center justify-center transition-colors aria-disabled:text-disabled rounded-full h-8 px-4 text-body-12 hover:bg-neutral-hover active:bg-neutral-pressed aria-pressed:bg-neutral-pressed aria-disabled:cursor-default relative whitespace-nowrap text-primary mt-1 w-full underline"
+  },
+  {
+    "tag": "BUTTON",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 20,
+      "y": 1000,
+      "width": 16,
+      "height": 16
+    },
+    "className": "bg-inverse size-4 rounded-full p-0.5"
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "role": null,
+    "aria": null,
+    "text": "Video meet with us",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 219,
+      "y": 860,
+      "width": 248,
+      "height": 32
+    },
+    "className": "[transition-timing-function:ease] border #1 border-transparent cursor-pointer duration-300 focus-visible:focus-ring inline-flex items-center justify-center transition-colors aria-disabled:bg-neutral-disabled aria-disabled:text-onPrimary-disabled rounded-full h-8 px-4 text-body-12 bg-accent text-onPrimary hover:bg-accent-hover active:bg-accent-pressed aria-pressed:bg-accent-pressed aria-disabled:cursor-default relative whitespace-nowrap w-full"
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "role": null,
+    "aria": null,
+    "text": "Chat with us",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 219,
+      "y": 900,
+      "width": 248,
+      "height": 32
+    },
+    "className": "[transition-timing-function:ease] border #1 cursor-pointer duration-300 focus-visible:focus-ring inline-flex items-center justify-center transition-colors aria-disabled:border-secondary aria-disabled:text-disabled rounded-full h-8 px-4 text-body-12 bg-neutral border-secondary text-primary hover:bg-neutral-hover hover:border-transparent active:bg-neutral-pressed active:border-transparent aria-pressed:bg-neutral-pressed aria-pressed:border-transparent aria-disabled:cursor-default relative whitespace-nowrap w-full"
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "role": null,
+    "aria": null,
+    "text": "Call +1-800-716-9964",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 219,
+      "y": 940,
+      "width": 248,
+      "height": 32
+    },
+    "className": "[transition-timing-function:ease] border #1 cursor-pointer duration-300 focus-visible:focus-ring inline-flex items-center justify-center transition-colors aria-disabled:border-secondary aria-disabled:text-disabled rounded-full h-8 px-4 text-body-12 bg-neutral border-secondary text-primary hover:bg-neutral-hover hover:border-transparent active:bg-neutral-pressed active:border-transparent aria-pressed:bg-neutral-pressed aria-pressed:border-transparent aria-disabled:cursor-default relative whitespace-nowrap w-full"
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "role": null,
+    "aria": null,
+    "text": "Book with an expert",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 219,
+      "y": 980,
+      "width": 248,
+      "height": 32
+    },
+    "className": "[transition-timing-function:ease] border #1 cursor-pointer duration-300 focus-visible:focus-ring inline-flex items-center justify-center transition-colors aria-disabled:border-secondary aria-disabled:text-disabled rounded-full h-8 px-4 text-body-12 bg-neutral border-secondary text-primary hover:bg-neutral-hover hover:border-transparent active:bg-neutral-pressed active:border-transparent aria-pressed:bg-neutral-pressed aria-pressed:border-transparent aria-disabled:cursor-default relative whitespace-nowrap w-full"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Visit the Support Centre",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 275,
+      "y": 1020,
+      "width": 136,
+      "height": 20
+    },
+    "className": "active:text-accent-pressed hover:text-accent-hover text-accent focus-visible:focus-ring rounded-4px underline-offset-4 text-body-12 no-underline hover:underline"
+  },
+  {
+    "tag": "BUTTON",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "T team",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 12,
+      "y": 1032,
+      "width": 191,
+      "height": 32
+    },
+    "className": "rounded-8px focus-visible:focus-ring hover:bg-neutral-hover flex w-full items-center gap-2"
+  },
+  {
+    "tag": "BUTTON",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Get Pro",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 291,
+      "y": 56,
+      "width": 92,
+      "height": 32
+    },
+    "className": "[transition-timing-function:ease] border #1 border-transparent cursor-pointer duration-300 focus-visible:focus-ring inline-flex items-center justify-center transition-colors active:bg-positive-secondary-pressed aria-expanded:bg-positive-secondary-pressed bg-positive-secondary hover:bg-positive-secondary-hover text-positive-secondary gap-1 h-8 text-body-12 pe-4 ps-3 rounded-full group/get-pro"
+  },
+  {
+    "tag": "BUTTON",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Your brand",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 228,
+      "y": 152,
+      "width": 219,
+      "height": 32
+    },
+    "className": "relative px-3 py-1.5 w-full text-left flex gap-2 justify-start items-center rounded-8px st-sidebar-item hover:bg-neutral-hover active:bg-neutral-pressed focus-visible:focus-ring cursor-pointer"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Your profile",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 228,
+      "y": 188,
+      "width": 219,
+      "height": 32
+    },
+    "className": "relative px-3 py-1.5 w-full text-left flex gap-2 justify-start items-center cursor-pointer rounded-8px st-sidebar-item hover:bg-neutral-hover active:bg-neutral-pressed focus-visible:focus-ring cursor-pointer"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Your team",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 228,
+      "y": 224,
+      "width": 219,
+      "height": 32
+    },
+    "className": "relative px-3 py-1.5 w-full text-left flex gap-2 justify-start items-center cursor-pointer rounded-8px st-sidebar-item hover:bg-neutral-hover active:bg-neutral-pressed focus-visible:focus-ring cursor-pointer"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Services",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 228,
+      "y": 260,
+      "width": 219,
+      "height": 32
+    },
+    "className": "relative px-3 py-1.5 w-full text-left flex gap-2 justify-start items-center cursor-pointer rounded-8px st-sidebar-item hover:bg-neutral-hover active:bg-neutral-pressed focus-visible:focus-ring cursor-pointer bg-neutral-active"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "General",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 228,
+      "y": 296,
+      "width": 219,
+      "height": 32
+    },
+    "className": "relative px-3 py-1.5 w-full text-left flex gap-2 justify-start items-center cursor-pointer rounded-8px st-sidebar-item hover:bg-neutral-hover active:bg-neutral-pressed focus-visible:focus-ring cursor-pointer"
+  },
+  {
+    "tag": "BUTTON",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Booking preferences",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 228,
+      "y": 368,
+      "width": 219,
+      "height": 32
+    },
+    "className": "relative px-3 py-1.5 w-full text-left flex gap-2 justify-start items-center rounded-8px st-sidebar-item hover:bg-neutral-hover active:bg-neutral-pressed focus-visible:focus-ring cursor-pointer"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Your branded app",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 228,
+      "y": 404,
+      "width": 219,
+      "height": 32
+    },
+    "className": "relative px-3 py-1.5 w-full text-left flex gap-2 justify-start items-center cursor-pointer rounded-8px st-sidebar-item hover:bg-neutral-hover active:bg-neutral-pressed focus-visible:focus-ring cursor-pointer"
+  },
+  {
+    "tag": "BUTTON",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Payments",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 228,
+      "y": 440,
+      "width": 219,
+      "height": 32
+    },
+    "className": "relative px-3 py-1.5 w-full text-left flex gap-2 justify-start items-center rounded-8px st-sidebar-item hover:bg-neutral-hover active:bg-neutral-pressed focus-visible:focus-ring cursor-pointer"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Reports",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 228,
+      "y": 476,
+      "width": 219,
+      "height": 32
+    },
+    "className": "relative px-3 py-1.5 w-full text-left flex gap-2 justify-start items-center cursor-pointer rounded-8px st-sidebar-item hover:bg-neutral-hover active:bg-neutral-pressed focus-visible:focus-ring cursor-pointer"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Billing",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 228,
+      "y": 512,
+      "width": 219,
+      "height": 32
+    },
+    "className": "relative px-3 py-1.5 w-full text-left flex gap-2 justify-start items-center cursor-pointer rounded-8px st-sidebar-item hover:bg-neutral-hover active:bg-neutral-pressed focus-visible:focus-ring cursor-pointer"
+  },
+  {
+    "tag": "BUTTON",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Notifications",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 228,
+      "y": 548,
+      "width": 219,
+      "height": 32
+    },
+    "className": "relative px-3 py-1.5 w-full text-left flex gap-2 justify-start items-center rounded-8px st-sidebar-item hover:bg-neutral-hover active:bg-neutral-pressed focus-visible:focus-ring cursor-pointer"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Reviews",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 228,
+      "y": 584,
+      "width": 219,
+      "height": 32
+    },
+    "className": "relative px-3 py-1.5 w-full text-left flex gap-2 justify-start items-center cursor-pointer rounded-8px st-sidebar-item hover:bg-neutral-hover active:bg-neutral-pressed focus-visible:focus-ring cursor-pointer"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Security",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 228,
+      "y": 620,
+      "width": 219,
+      "height": 32
+    },
+    "className": "relative px-3 py-1.5 w-full text-left flex gap-2 justify-start items-center cursor-pointer rounded-8px st-sidebar-item hover:bg-neutral-hover active:bg-neutral-pressed focus-visible:focus-ring cursor-pointer"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Download apps",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 228,
+      "y": 692,
+      "width": 219,
+      "height": 32
+    },
+    "className": "relative px-3 py-1.5 w-full text-left flex gap-2 justify-start items-center cursor-pointer rounded-8px st-sidebar-item hover:bg-neutral-hover active:bg-neutral-pressed focus-visible:focus-ring cursor-pointer"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Activity",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 228,
+      "y": 728,
+      "width": 219,
+      "height": 32
+    },
+    "className": "relative px-3 py-1.5 w-full text-left flex gap-2 justify-start items-center cursor-pointer rounded-8px st-sidebar-item hover:bg-neutral-hover active:bg-neutral-pressed focus-visible:focus-ring cursor-pointer"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "Refer a friend",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 228,
+      "y": 764,
+      "width": 219,
+      "height": 32
+    },
+    "className": "relative px-3 py-1.5 w-full text-left flex gap-2 justify-start items-center cursor-pointer rounded-8px st-sidebar-item hover:bg-neutral-hover active:bg-neutral-pressed focus-visible:focus-ring cursor-pointer"
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "role": null,
+    "aria": null,
+    "text": "Log out",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 228,
+      "y": 800,
+      "width": 219,
+      "height": 32
+    },
+    "className": "relative px-3 py-1.5 w-full text-left flex gap-2 justify-start items-center rounded-8px st-sidebar-item hover:bg-neutral-hover active:bg-neutral-pressed focus-visible:focus-ring cursor-pointer"
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "role": null,
+    "aria": null,
+    "text": "Your calendar",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 224,
+      "y": 56,
+      "width": 138,
+      "height": 32
+    },
+    "className": "[transition-timing-function:ease] border #1 border-transparent cursor-pointer duration-300 focus-visible:focus-ring inline-flex items-center justify-center transition-colors aria-disabled:text-disabled rounded-full h-8 px-4 text-body-12 text-secondary hover:bg-neutral-hover active:bg-neutral-pressed aria-pressed:bg-neutral-pressed aria-disabled:cursor-default relative whitespace-nowrap max-w-[224px] pl-2 invisible-for-print"
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "role": null,
+    "aria": null,
+    "text": "June 2026",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 920,
+      "y": 56,
+      "width": 108,
+      "height": 32
+    },
+    "className": "[transition-timing-function:ease] border #1 border-transparent cursor-pointer duration-300 focus-visible:focus-ring inline-flex items-center justify-center transition-colors aria-disabled:text-disabled rounded-full h-8 px-4 text-body-12 text-secondary hover:bg-neutral-hover active:bg-neutral-pressed aria-pressed:bg-neutral-pressed aria-disabled:cursor-default relative whitespace-nowrap max-w-[224px]"
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "role": null,
+    "aria": "Previous week",
+    "text": "",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 1032,
+      "y": 56,
+      "width": 32,
+      "height": 32
+    },
+    "className": "[transition-timing-function:ease] border #1 border-transparent cursor-pointer duration-300 focus-visible:focus-ring inline-flex items-center justify-center transition-colors aria-disabled:text-disabled rounded-full text-secondary h-8 w-8 hover:bg-neutral-hover active:bg-neutral-pressed aria-pressed:bg-neutral-pressed aria-disabled:cursor-default relative shrink-0"
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "role": null,
+    "aria": "Next week",
+    "text": "",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 1064,
+      "y": 56,
+      "width": 32,
+      "height": 32
+    },
+    "className": "[transition-timing-function:ease] border #1 border-transparent cursor-pointer duration-300 focus-visible:focus-ring inline-flex items-center justify-center transition-colors aria-disabled:text-disabled rounded-full text-secondary h-8 w-8 hover:bg-neutral-hover active:bg-neutral-pressed aria-pressed:bg-neutral-pressed aria-disabled:cursor-default relative shrink-0"
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "role": null,
+    "aria": null,
+    "text": "Today",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 1100,
+      "y": 56,
+      "width": 69,
+      "height": 32
+    },
+    "className": "[transition-timing-function:ease] border #1 border-transparent cursor-pointer duration-300 focus-visible:focus-ring inline-flex items-center justify-center transition-colors aria-disabled:text-disabled rounded-full h-8 px-4 text-body-12 text-secondary hover:bg-neutral-hover active:bg-neutral-pressed aria-pressed:bg-neutral-pressed aria-disabled:cursor-default relative whitespace-nowrap"
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "role": null,
+    "aria": null,
+    "text": "",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 1709,
+      "y": 56,
+      "width": 32,
+      "height": 32
+    },
+    "className": "[transition-timing-function:ease] border #1 border-transparent cursor-pointer duration-300 focus-visible:focus-ring inline-flex items-center justify-center transition-colors aria-disabled:text-disabled text-secondary h-8 w-8 hover:bg-neutral-hover active:bg-neutral-pressed aria-pressed:bg-neutral-pressed aria-disabled:cursor-default relative shrink-0 aria-expanded:bg-neutral-pressed rounded-full"
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "role": null,
+    "aria": null,
+    "text": "",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 1745,
+      "y": 56,
+      "width": 32,
+      "height": 32
+    },
+    "className": "[transition-timing-function:ease] border #1 border-transparent cursor-pointer duration-300 focus-visible:focus-ring inline-flex items-center justify-center transition-colors aria-disabled:text-disabled text-secondary h-8 w-8 hover:bg-neutral-hover active:bg-neutral-pressed aria-pressed:bg-neutral-pressed aria-disabled:cursor-default relative shrink-0 aria-expanded:bg-neutral-pressed rounded-full"
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "role": null,
+    "aria": null,
+    "text": "",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 1781,
+      "y": 56,
+      "width": 32,
+      "height": 32
+    },
+    "className": "[transition-timing-function:ease] border #1 border-transparent cursor-pointer duration-300 focus-visible:focus-ring inline-flex items-center justify-center transition-colors aria-disabled:text-disabled text-secondary h-8 w-8 hover:bg-neutral-hover active:bg-neutral-pressed aria-pressed:bg-neutral-pressed aria-disabled:cursor-default relative shrink-0 aria-expanded:bg-neutral-pressed rounded-full"
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "role": null,
+    "aria": null,
+    "text": "Share",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 1817,
+      "y": 56,
+      "width": 87,
+      "height": 32
+    },
+    "className": "[transition-timing-function:ease] border #1 cursor-pointer duration-300 focus-visible:focus-ring inline-flex items-center justify-center transition-colors aria-disabled:text-disabled aria-disabled:border-secondary rounded-full px-4 border-accent text-accent hover:bg-accent-hover hover:border-transparent hover:text-onPrimary active:bg-accent-pressed active:border-transparent active:text-onPrimary aria-disabled:cursor-default relative whitespace-nowrap text-body-14 lg:text-body-12 h-10 lg:h-8 aria-expanded:bg-accent-pressed aria-expanded:border-transparent aria-expanded:text-onPrimary aria-pressed:bg-accent-pressed aria-pressed:text-inverse aria-pressed:border-transparent"
+  },
+  {
+    "tag": "BUTTON",
+    "type": "button",
+    "role": null,
+    "aria": null,
+    "text": "Connect calendar",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 232,
+      "y": 168,
+      "width": 144,
+      "height": 24
+    },
+    "className": "[transition-timing-function:ease] border #1 border-transparent cursor-pointer duration-300 focus-visible:focus-ring justify-center transition-colors aria-disabled:text-disabled rounded-full h-6 text-body-12 hover:bg-neutral-hover active:bg-neutral-pressed aria-pressed:bg-neutral-pressed aria-disabled:cursor-default relative whitespace-nowrap flex items-center px-3 m-0 text-secondary"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "22Mon",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 576,
+      "y": 96,
+      "width": 59,
+      "height": 24
+    },
+    "className": "fc-col-header-cell-cushion"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "23Tue",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 780,
+      "y": 96,
+      "width": 55,
+      "height": 24
+    },
+    "className": "fc-col-header-cell-cushion"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "24Wed",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 980,
+      "y": 96,
+      "width": 60,
+      "height": 24
+    },
+    "className": "fc-col-header-cell-cushion"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "25Thu",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 1184,
+      "y": 96,
+      "width": 56,
+      "height": 24
+    },
+    "className": "fc-col-header-cell-cushion"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "26Fri",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 1389,
+      "y": 96,
+      "width": 49,
+      "height": 24
+    },
+    "className": "fc-col-header-cell-cushion"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "27Sat",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 1590,
+      "y": 96,
+      "width": 52,
+      "height": 24
+    },
+    "className": "fc-col-header-cell-cushion"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "28Sun",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 1790,
+      "y": 96,
+      "width": 56,
+      "height": 24
+    },
+    "className": "fc-col-header-cell-cushion"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 505,
+      "y": 120,
+      "width": 8,
+      "height": 8
+    },
+    "className": "fc-daygrid-day-number"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 706,
+      "y": 120,
+      "width": 8,
+      "height": 8
+    },
+    "className": "fc-daygrid-day-number"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 907,
+      "y": 120,
+      "width": 8,
+      "height": 8
+    },
+    "className": "fc-daygrid-day-number"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 1108,
+      "y": 120,
+      "width": 8,
+      "height": 8
+    },
+    "className": "fc-daygrid-day-number"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 1309,
+      "y": 120,
+      "width": 8,
+      "height": 8
+    },
+    "className": "fc-daygrid-day-number"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 1511,
+      "y": 120,
+      "width": 8,
+      "height": 8
+    },
+    "className": "fc-daygrid-day-number"
+  },
+  {
+    "tag": "A",
+    "type": null,
+    "role": null,
+    "aria": null,
+    "text": "",
+    "placeholder": null,
+    "disabled": null,
+    "visible": true,
+    "rect": {
+      "x": 1712,
+      "y": 120,
+      "width": 8,
+      "height": 8
+    },
+    "className": "fc-daygrid-day-number"
+  }
+]
